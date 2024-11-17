@@ -1,2 +1,2 @@
 # ENGETO
-Finální projekty - Testing akademie
+Finální projekt - Testing akademie (Testovací scénáře)
